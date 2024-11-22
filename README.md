@@ -1,6 +1,29 @@
 ![image](https://github.com/user-attachments/assets/fcc4f37a-6d27-40b0-9389-d6498bdf31d4)
+
+
 ![image](https://github.com/user-attachments/assets/7091335a-f5e8-4c1c-a0ae-3f6104574470)
 
+
+My movie app built using React and Redux can be summarized as follows:
+
+Home Page:
+
+Displays the total number of movies and the user's favorite movie.
+Allows users to search for and view movies.
+Movie List:
+
+Shows a list of movies with their names and the number of views.
+Each movie has options for deletion and possibly other functionalities.
+Category Selection:
+
+Users can filter movies by all movies, popular movies, or the most viewed movies.
+Add New Movie:
+
+Allows users to add new movies by providing their name and the number of times they have been viewed.
+Redux Integration:
+
+Redux is used for state management, ensuring centralized control over the application's data and enabling automatic re-rendering whenever the state changes.
+This project is designed to manage a movie database, implementing core CRUD operations (Create, Read, Update, Delete). It features a user-friendly interface and effectively utilizes React components and Redux state management for seamless functionality.
 <<<<<<< HEAD
 # reactMovie
 =======
@@ -51,27 +74,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> ec994d3 (Initialize project using Create React App)
